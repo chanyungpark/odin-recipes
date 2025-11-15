@@ -1,0 +1,33 @@
+h1 {
+    background-color: #DB2955;
+    color: antiquewhite;
+    margin: 16px auto;
+    padding: 16px 32px;
+    height: auto;
+    width: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+ul {
+    background-color: #54494B ;
+    height: auto;
+    width: auto;
+    margin: 16px auto 16px 48px;
+    padding: 0 20px;
+}
+
+li {
+    background-color: #B98389;
+    height: auto;
+    width: auto;
+    margin: 16px auto;
+    padding: 20px;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+a {
+    color: antiquewhite;
+}
